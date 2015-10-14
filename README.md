@@ -5,7 +5,9 @@ An ultra-simple, barebones assembler for the SIC machine
 # USAGE
 
 ```
-$ ./sic_asm input_file
+$ ./sic_asm sample_program
+$ cat intermediate.txt  # intermediate file
+$ cat out.txt  # object code
 ```
 
 OR...
